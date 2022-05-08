@@ -7,5 +7,7 @@ sudo dnf dialog
 
 ثم عمل إظهار الملفات المخفية
 
-أضف الئ مستند .bashrc
+أضف الئ مستند
+.bashrc
+
 bash /home/omar/o.sh
