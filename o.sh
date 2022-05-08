@@ -27,7 +27,7 @@ case $CHOICE in
             gedit newtext.txt
             ;;
         2)
-            echo "You chose Option 2"
+           
             gedit newtext.sh
             ;;
         3)
