@@ -1,4 +1,5 @@
 # gnome
+![alt text] (o.png)
 طريقة التنصيب `sudo dnf dialog`
 
 ثم حمل o.sh الى مجلد `home`
