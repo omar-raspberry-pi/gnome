@@ -31,7 +31,7 @@ case $CHOICE in
             gedit newtext.sh
             ;;
         3)
-            echo "You chose Option 3"
+            echo "تم الخروج"
             exit
             ;;
             
