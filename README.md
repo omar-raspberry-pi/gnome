@@ -1,5 +1,5 @@
 # gnome
-![alt text] (https://raw.githubusercontent.com/omar-raspberry-pi/gnome/main/o.png)
+
 طريقة التنصيب `sudo dnf dialog`
 
 ثم حمل o.sh الى مجلد `home`
